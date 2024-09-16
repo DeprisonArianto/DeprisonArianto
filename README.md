@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeprisonArianto
-- 👀 I’m interested in web programming, arduino and IoT
-- 🌱 I’m currently learning PHP and MySQ
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python, AI, ML, DL, Arduino and IoT
+- 🌱 I’m currently learning Python, Machine Learning and Deep Learning
+- 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me ...
 
 <!---
